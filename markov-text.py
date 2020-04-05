@@ -1,9 +1,4 @@
 #
-# ps7pr2.py (Problem Set 7, Problem 3)
-#
-# 2-D Lists
-#
-# Computer Science 111
 #
 # If you worked with a partner, put his or her contact info below:
 # partner's name: Gordon Ng
